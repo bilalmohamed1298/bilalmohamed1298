@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Bilal</h2>
+<h2 align="center">Hi 👋, I'm Bilal Mourad</h2>
 
 ###
 
@@ -29,18 +29,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
 
 <br clear="both">
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzeXVvZDl3enl6aDlpOTE4Nzdjbndwcnh6OHg5ZzU0Y3d5eTRoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3EdJTouFN890fMnGP/giphy.gif"  />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bilalmohamed1298&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -51,11 +45,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bilalmohamed1298/bilalmohamed1298/output/snake.svg" alt="Snake animation" />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dzeXVvZDl3enl6aDlpOTE4Nzdjbndwcnh6OHg5ZzU0Y3d5eTRoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3EdJTouFN890fMnGP/giphy.gif"  />
 
 ###
 
-<br clear="both">
+<p align="center">Front-end developer with experience in building responsive, scalable websites. Proficient in JavaScript, mastering<br>React.js, and eager to learn Next.js, Tailwind CSS, and TypeScript to create high-performance applications. Passionate<br>about collaboration, knowledge-sharing, and continuous growth.</p>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bilalsmourad/" target="_blank">
