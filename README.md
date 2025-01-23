@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">🚀 Front-end developer with experience in building responsive, scalable websites. Proficient in JavaScript, mastering React.js, and eager to learn Next.js, Tailwind CSS, and TypeScript to create high-performance applications. Passionate about collaboration, knowledge-sharing, and continuous growth.</p>
+<p align="left">👨‍💻 Front-End Developer with over a year of experience in UI Development and currently focusing on React.js.<br>🔍 Passionate about expanding my expertise in React and exploring trending tech stacks and cutting-edge technologies such as Next.js, TypeScript, and Tailwind CSS. <br>🚀 Constantly striving to enhance my skills, stay updated with industry trends, and deliver innovative, high-quality solutions.</p>
 
 ###
 
