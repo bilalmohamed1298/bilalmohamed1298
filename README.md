@@ -49,7 +49,7 @@
 
 ###
 
-<p align="center">Front-end developer with experience in building responsive, scalable websites. Proficient in JavaScript, mastering<br>React.js, and eager to learn Next.js, Tailwind CSS, and TypeScript to create high-performance applications. Passionate<br>about collaboration, knowledge-sharing, and continuous growth.</p>
+<p align="left">Front-end developer with experience in building responsive, scalable websites. Proficient in JavaScript, mastering<br>React.js, and eager to learn Next.js, Tailwind CSS, and TypeScript to create high-performance applications. Passionate<br>about collaboration, knowledge-sharing, and continuous growth.</p>
 
 ###
 
